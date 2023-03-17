@@ -5,3 +5,13 @@ Apache Maven is a build automation and project management tool used primarily fo
 </n>
 
 ## Dependencies in Maven -:
+
+</n>
+In Maven, dependencies are external libraries or modules that are required to build and run a project.
+
+Maven provides a central repository where developers can search for and download dependencies, rather than having to manually download and add them to the project.
+
+To add a dependency to a Maven project, you need to specify the dependency's artifact coordinates, which typically include its group ID, artifact ID, and version number.
+
+When you build the project using Maven, it automatically downloads and includes the necessary dependencies from the central repository or any other specified repositories. This helps to manage the project's dependencies efficiently and ensures that the project is using the correct and compatible versions of external libraries.
+</n>
