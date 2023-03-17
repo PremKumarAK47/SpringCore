@@ -21,7 +21,8 @@ When you build the project using Maven, it automatically downloads and includes 
 </n>
 In Maven, there are three types of repositories:
 
-**Local repository:** It is a local cache of downloaded dependencies and plugins for a specific user. When a user executes a build for the first time, Maven downloads all the dependencies and plugins required to execute the build and stores them in the local repository. By default, the local repository is located in the user's home directory and can be configured in the settings.xml file.
+**Local repository:** 
+It is a local cache of downloaded dependencies and plugins for a specific user. When a user executes a build for the first time, Maven downloads all the dependencies and plugins required to execute the build and stores them in the local repository. By default, the local repository is located in the user's home directory and can be configured in the settings.xml file.
 
 **Central repository:** It is the default repository for Maven and contains a large number of widely-used dependencies and plugins. When a dependency or plugin is not found in the local repository, Maven searches for it in the central repository.
 
