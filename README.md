@@ -52,3 +52,5 @@ test : maven will run all the test cases and it will show how many test cases ar
 
 package : maven will bundle our java code into a jar file inside 'target' folder.
 
+install : that jar file in step 5 will be stored in the localrepo.
+
