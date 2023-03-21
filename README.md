@@ -55,3 +55,6 @@ It is a repository other than the central repository that can be added to the pr
 
 - install : that jar file in step 5 will be stored in the localrepo.
 
+deploy : maven stores the application jar file to the central repo.
+
+
