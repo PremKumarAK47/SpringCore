@@ -59,4 +59,6 @@ It is a repository other than the central repository that can be added to the pr
 
 - **clean : here maven will delete and remove all the files that are generated in previous build. this phase is an isolated phase.
 
+### Note: if we execute any phase to build the maven project then maven will execute all the phases till that given phase.except phase 8.clean.
+
 
