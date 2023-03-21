@@ -49,3 +49,6 @@ It is a repository other than the central repository that can be added to the pr
 - test-compile: if we have written any unit test cases those code will be compiled.
 
 test : maven will run all the test cases and it will show how many test cases are success and how many fails.
+
+package : maven will bundle our java code into a jar file inside 'target' folder.
+
