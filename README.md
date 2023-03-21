@@ -57,6 +57,6 @@ It is a repository other than the central repository that can be added to the pr
 
 - deploy : maven stores the application jar file to the central repo.
 
-clean : here maven will delete and remove all the files that are generated in previous build. this phase is an isolated phase.
+- **clean : here maven will delete and remove all the files that are generated in previous build. this phase is an isolated phase.
 
 
