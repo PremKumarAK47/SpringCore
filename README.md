@@ -42,3 +42,5 @@ It is a repository other than the central repository that can be added to the pr
 ## maven build life cycle contains diff phases
 
 validate: - in this phase it will verify the project diectory structure is valid or not. and it has pom.xml file is there or not.
+
+compile: maven compiles all the source code of the project by downloading and adding requied jar files in the classpath.
