@@ -6,6 +6,7 @@ Apache Maven is a build automation and project management tool used primarily fo
 
 ## Dependencies in Maven -:
 </n>
+
 - In Maven, dependencies are external libraries or modules that are required to build and run a project.
 
 - Maven provides a central repository where developers can search for and download dependencies, rather than having to manually download and add them to the project.
