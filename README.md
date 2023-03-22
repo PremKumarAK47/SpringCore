@@ -29,7 +29,7 @@ In Maven, there are three types of repositories:
 
 - **Central repository:** 
 </n>
-It is the default repository for Maven and contains a large number of widely-used dependencies and plugins. When a dependency or plugin is not found in the local repository, Maven searches for it in the central repository.
+ It is the default repository for Maven and contains a large number of widely-used dependencies and plugins. When a dependency or plugin is not found in the local        repository, Maven searches for it in the central repository.
 </n>
 
 - **Remote repository:** 
