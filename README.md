@@ -39,9 +39,9 @@ It is a repository other than the central repository that can be added to the pr
 
 </n>
 
-# maven build life cycle
+# Maven Build Life Cycle
 
-## maven build life cycle contains diff phases
+## Maven build life cycle contains diff phases-:
 
 - validate: - in this phase it will verify the project diectory structure is valid or not. and it has pom.xml file is there or not.
 
