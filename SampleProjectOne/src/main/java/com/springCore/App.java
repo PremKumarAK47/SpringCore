@@ -17,6 +17,10 @@ public class App
         
         Student s1 =(Student) context.getBean("student1");
         System.out.println(s1);
+        
+        // We can Inject The values into the property Tag itSelf
+        Student s2= (Student) context.getBean("student2");
+         System.out.println(s2);
     }
     
     
