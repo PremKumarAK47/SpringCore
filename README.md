@@ -22,10 +22,9 @@ Apache Maven is a build automation and project management tool used primarily fo
 </n>
 In Maven, there are three types of repositories:
 
-- **Local repository:** 
-
-</n>
- It is a local cache of downloaded dependencies and plugins for a specific user. When a user executes a build for the first time, Maven downloads all the dependencies and plugins required to execute the build and stores them in the local repository. By default, the local repository is located in the user's home directory and can be configured in the settings.xml file. </n>
+- **Local repository:** </n>
+ It is a local cache of downloaded dependencies and plugins for a specific user. When a user executes a build for the first time, Maven downloads all the dependencies and plugins required to execute the build and stores them in the local repository. By default, the local repository is located in the user's home directory and can be configured in the settings.xml file. 
+ </n>
 
 - **Central repository:** 
 </n>
