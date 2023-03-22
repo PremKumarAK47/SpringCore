@@ -30,8 +30,7 @@ In Maven, there are three types of repositories:
  It is the default repository for Maven and contains a large number of widely-used dependencies and plugins. When a dependency or plugin is not found in the local        repository, Maven searches for it in the central repository.
 </n>
 
-- **Remote repository:** 
-</n>
+- **Remote repository:** </n>
 It is a repository other than the central repository that can be added to the project's pom.xml file. It can be a public repository, such as Maven Central, or a private repository, such as a corporate repository. Remote repositories allow teams to share dependencies and plugins across projects and can be used to distribute proprietary artifacts.
 </n>
 
